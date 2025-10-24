@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador Financeiro Pessoal",
+  "description": "Uma aplicação web moderna para gerenciar suas finanças pessoais, incluindo entradas, despesas fixas e faturas de cartão de crédito. Acompanhe seus gastos, veja resumos mensais e mantenha tudo organizado.",
+  "requestFramePermissions": []
+}
